@@ -6,10 +6,10 @@ Projeto para o teste da Projetas Soluções Integradas utilizando Cucumber, Ruby
 2. Executar o comando "bundle init" dentro da pasta "tests"
    Adicione as dependências ao Gemfile que foi gerado na pasta tests
    
-    # frozen_string_literal: true
+    #frozen_string_literal: true
     source "http://rubygems.org"
 
-    # gem "rails"   
+    #gem "rails"   
     gem 'cucumber'
     gem 'capybara'
     gem 'selenium-webdriver'
