@@ -1,0 +1,5 @@
+url: 'https://the-internet.herokuapp.com'
+users:
+  admin:
+    username: tomsmith
+    password: SuperSecretPassword!

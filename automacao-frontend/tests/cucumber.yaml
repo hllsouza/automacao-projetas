@@ -1,0 +1,5 @@
+# YAML TEMPLATE
+---
+default: --format progress -p html -p qa
+html: --format html
+qa: ENV_TYPE=qa
