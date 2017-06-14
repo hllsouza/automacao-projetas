@@ -1,4 +1,4 @@
-# Descrição
+# Automação Frontend
 
 Projeto para o teste da Projetas Soluções Integradas utilizando Cucumber, Ruby, Capybara, RSpec.
 
